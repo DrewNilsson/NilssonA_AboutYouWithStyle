@@ -1,0 +1,78 @@
+body {
+    background-color: rgb(208, 247, 247);
+}
+
+.Title {
+    text-align: center;
+    color:rgb(42, 9, 174);
+    font-family:monospace;
+}
+
+.Github {
+    color: rgb(13, 5, 100);
+    font-size: 30px;
+    font-family: monospace;
+}
+
+.MyName {
+    text-align: center;
+    color: rgb(42, 9, 174);
+    border: thick dashed rgb(13, 5, 100);
+    font-family: monospace;
+    font-size: 50px;
+}
+
+.URLDesign {
+    display: flex;
+    justify-content: center;
+}
+
+.AboutMe {
+    color:rgb(11, 71, 124);
+    font-size: 20px;
+    font-family: monospace;
+    border: dashed rgb(13, 5, 100);
+    text-align: center;
+}
+
+.FavGames {
+    color: rgb(11, 71, 124);
+    font-size: 15px;
+    font-family: monospace;
+}
+
+.FavFood {
+    color: rgb(13, 5, 100);
+    font-size: 15px;
+    font-family: monospace;
+}
+
+.List {
+    display: flex;
+    justify-content: space-around;
+}
+
+.Game {
+    max-width: 35%;
+    max-height: 90%;
+}
+
+.Me {
+    max-width: 25%;
+    max-height: 90%;
+}
+
+.ImagePos {
+    display: flex;
+    justify-content: center;
+}
+
+.Burger {
+    max-width: 35%;
+    max-height: 90%;
+}
+
+.Images {
+    display: flex;
+    justify-content: space-around;
+}
